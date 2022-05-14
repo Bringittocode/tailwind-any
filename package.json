@@ -1,0 +1,27 @@
+{
+  "name": "tailwindcss-any",
+  "version": "1.0.0",
+  "description": "Sometimes installing a plugin to apply a syle might not be neccessary that why this plugin came into play, use this plugin to apply any style that you ever imagine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bringittocode/tailwindcss-any"
+  },
+  "keywords": [
+    "tailwind",
+    "tailwindcss",
+    "plugin",
+    "tailwindcss-plugin",
+    "tailwindcss-plugin",
+    "css",
+    "style"
+  ],
+  "author": "hazeezet",
+  "license": "MIT",
+  "dependencies": {
+    "tailwindcss": "^3.0.24"
+  }
+}
